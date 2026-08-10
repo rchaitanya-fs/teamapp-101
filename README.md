@@ -4,3 +4,4 @@
 3. Test all recent changes
 4. get grape juice
 5. get apples
+6. Test the latest notebook

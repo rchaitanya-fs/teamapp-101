@@ -1,0 +1,13 @@
+{
+  "name": "teamapp-101",
+  "version": "1.0.0",
+  "description": "Tiny Node app for the GitHub Actions + GHCR demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
